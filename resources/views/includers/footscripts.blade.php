@@ -5,6 +5,7 @@
            All Rights Reserve
         </span>
         <a href="{{ route('pages.about') }}" class=" btn btn-secondary">About me</a>
+        <a href="{{ route('pages.policy') }}" class=" btn btn-secondary">Policy</a>
     </div>
 </div>
 <script src="https://use.fontawesome.com/ffb1fe00e0.js"></script>
